@@ -2,7 +2,7 @@
 
 September 30, 2021
 
-This is a [Viral Science](https://www.viralsciencecreativity.com/post/arduino-piano-with-4x4-keypad) breadboard project. The program uses a 4x4 keypad to play musical notes.
+This is a [Viral Science](https://www.viralsciencecreativity.com/post/arduino-piano-with-4x4-keypad) Arduino breadboard project. The program uses a 4x4 keypad to play musical notes.
 
 ![image](https://user-images.githubusercontent.com/93152842/190873522-2914aaae-e38f-44ca-bdf2-11f75a48e0ba.png)
 
